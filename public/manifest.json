@@ -42,7 +42,7 @@
       }
     ],
     "name": "Budget Tracker",
-    "short_name": "Foodies",
+    "short_name": "Buddyget",
     "display": "standalone",
     "start_url": "../index.html",
     "description": "An app that helps track your finances.",
